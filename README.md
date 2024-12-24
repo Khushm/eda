@@ -71,20 +71,20 @@ Key visualizations generated in the project include:
 ### Correlation Matrix
 This matrix shows how the features correlate with each other, which can help identify which variables are more strongly related to one another and to the outcome.
 
-![Correlation Matrix](./images/correlation_matrix.png)
+![Correlation Matrix](./images/correlation_matrix.PNG)
 
 ### Histograms
 
-![Histogram](./images/histogram.png)
+![Histogram](./images/histogram.PNG)
 
 Further, Violin Plot of key features like **Glucose**, **BMI**, and **Age** were created to visualize their distributions.
 
-![Violin Plot](./images/volinplot.png)
+![Violin Plot](./images/volinplot.PNG)
 
 ### Box Plots
 Box plots were used to detect outliers and analyze the distribution of variables like **Skin Thickness** and **Blood Pressure**.
 
-![Box Plot](./images/boxplot.png)
+![Box Plot](./images/boxplot.PNG)
 
 
 ### Interpretation:
@@ -97,7 +97,7 @@ Each visualization helps identify key patterns, correlations, and outliers, prov
 ### ROC Curve:
 Visualizing the trade-off between sensitivity and specificity, allowing to assess the performance of the model at different decision thresholds.
 
-![ROC Curve](./images/roc.png)
+![ROC Curve](./images/roc.PNG)
 
 ### Key Insights:
 - Higher glucose levels and BMI are strong indicators of diabetes.
